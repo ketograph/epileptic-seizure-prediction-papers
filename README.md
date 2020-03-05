@@ -3,6 +3,12 @@
 ## Datasets
 
 * ![CHB-MIT Scalp EEG Database](https://physionet.org/content/chbmit/1.0.0/)
+* ![TUH EEG Seizure Dataset](https://www.isip.piconepress.com/projects/tuh_eeg/html/downloads.shtml#c_tusz)
+* ![Bonn dataset](http://epileptologie-bonn.de/cms/front_content.php?idcat=193&lang=3&changelang=3)
+* ![UCI Epileptic Seizure Recognition Data Set](https://archive.ics.uci.edu/ml/datasets/Epileptic+Seizure+Recognition), is a restructuring of the Bonn dataset
+* ![American Epilepsy Society Seizure Prediction Challenge - Kaggle 2014](https://www.kaggle.com/c/seizure-prediction/data)
+* ![epilepsyecosystem.org](https://www.epilepsyecosystem.org/) was first available as Kaggle contest data of ![Melbourne University AES/MathWorks/NIH Seizure Prediction competition](https://www.kaggle.com/c/melbourne-university-seizure-prediction) in 2016
+* ![Freiburg dataset](http://epilepsy.uni-freiburg.de/freiburg-seizure-prediction-project/eeg-database), discontinued, data can be purchased from ![European Epilepsy Database](http://epilepsy-database.eu/)
 
 ## Papers
 
