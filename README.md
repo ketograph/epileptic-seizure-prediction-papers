@@ -14,6 +14,8 @@
   * five archives with 100 files with 4096 samples from different channels
 * [UCI Epileptic Seizure Recognition Data Set](https://archive.ics.uci.edu/ml/datasets/Epileptic+Seizure+Recognition), is a restructuring of the Bonn dataset
 * [American Epilepsy Society Seizure Prediction Challenge - Kaggle 2014](https://www.kaggle.com/c/seizure-prediction/data)
+  * 5 dogs with natural occuring epilepsy, 16 channels, 400Hz
+  * 2 humans, different number of channels, 5000Hz
 * [epilepsyecosystem.org](https://www.epilepsyecosystem.org/) was first available as Kaggle contest data of [Melbourne University AES/MathWorks/NIH Seizure Prediction competition](https://www.kaggle.com/c/melbourne-university-seizure-prediction) in 2016
 * [Freiburg dataset](http://epilepsy.uni-freiburg.de/freiburg-seizure-prediction-project/eeg-database), discontinued, data can be purchased from [European Epilepsy Database](http://epilepsy-database.eu/)
 
