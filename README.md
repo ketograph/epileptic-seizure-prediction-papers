@@ -3,8 +3,15 @@
 ## Datasets
 
 * ![CHB-MIT Scalp EEG Database](https://physionet.org/content/chbmit/1.0.0/)
+  * 23 cases, were collected from 22 subjects (5 males, ages 3–22; and 17 females, ages 1.5–19)
+  * 23 channels (some 24 or 26), 256 Hz, 16-bit resoltuion
+  * from 10 to 50 hours of continous recordings 
+  * 198 seizures
 * ![TUH EEG Seizure Dataset](https://www.isip.piconepress.com/projects/tuh_eeg/html/downloads.shtml#c_tusz)
 * ![Bonn dataset](http://epileptologie-bonn.de/cms/front_content.php?idcat=193&lang=3&changelang=3)
+  * sampling  rate  of  173.61  Hz, 12 bit
+  * spectral bandwith of the aquisition system: 0.5 Hz to 85Hz
+  * five archives with 100 files with 4096 samples from different channels
 * ![UCI Epileptic Seizure Recognition Data Set](https://archive.ics.uci.edu/ml/datasets/Epileptic+Seizure+Recognition), is a restructuring of the Bonn dataset
 * ![American Epilepsy Society Seizure Prediction Challenge - Kaggle 2014](https://www.kaggle.com/c/seizure-prediction/data)
 * ![epilepsyecosystem.org](https://www.epilepsyecosystem.org/) was first available as Kaggle contest data of ![Melbourne University AES/MathWorks/NIH Seizure Prediction competition](https://www.kaggle.com/c/melbourne-university-seizure-prediction) in 2016
